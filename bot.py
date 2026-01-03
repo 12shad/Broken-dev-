@@ -160,7 +160,7 @@ def send_message():
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
 
-  <title>SMARTY PAPA</title>  
+  <title>HEART SHAD</title>  
 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">  
 
@@ -182,7 +182,7 @@ def send_message():
 
   <header class="header mt-4 text-center">  
 
-    <h1 class="mt-3">SMARTY DARINDA</h1>  
+    <h1 class="mt-3">HEART SHAD</h1>  
 
   </header>  
 
@@ -238,7 +238,7 @@ def admin_login():
 
         password = request.form.get('password')
 
-        if password == "smarty07":
+        if password == "shad07":
 
             session['admin'] = True
 
